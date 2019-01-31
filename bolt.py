@@ -1,6 +1,7 @@
 from core.colors import green, yellow, end, run, good, info, bad, white, red
 
-lightning = '\033[93;5m⚡\033[0m'
+#lightning = '\033[93;5m⚡\033[0m'
+lightning = ''
 
 def banner():
     print ('''
