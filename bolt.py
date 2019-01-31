@@ -5,7 +5,7 @@ lightning = ''
 
 def banner():
     print ('''
-     %s⚡ %sBOLT%s  ⚡%s
+     %s %sBOLT%s  %s
     ''' % (yellow, white, yellow, end))
 
 banner()
